@@ -1,0 +1,7 @@
+ --compilers js:babel-core/register
+ --compilers jsx:babel-core/register
+ scripts/testSetup.js
+ src/*.test.jsx
+ src/**/*.test.jsx
+ src/*.test.js
+ src/**/*.test.js
